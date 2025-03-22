@@ -184,4 +184,4 @@ class Board:
             SCREEN (pygame window): pygame window allows pygame objects to be drawn onto the screen
         """
         self.draw_board(WIDTH, HEIGHT, SCREEN)
-        self.draw_tiles(WIDTH, HEIGHT, SCREEN)
+        self.draw_tiles(WIDTH, HEIGHT, SCREEN) 

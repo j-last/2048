@@ -15,7 +15,7 @@ class Tile:
 
     def get_value(self) -> int:
         """
-        Returns:
+        Returns: 
             int: the value of the tile
         """
         return self.value

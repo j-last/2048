@@ -11,7 +11,7 @@ from board import Board
 pygame.init()
 WIDTH = 600
 HEIGHT = 600
-SCREEN = pygame.display.set_mode((WIDTH, HEIGHT))
+SCREEN = pygame.display.set_mode((WIDTH, HEIGHT)) 
 
 # game clock
 CLOCK = pygame.time.Clock()
